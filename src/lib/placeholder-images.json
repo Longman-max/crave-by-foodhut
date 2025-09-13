@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "jollof-rice",
+      "description": "Jollof Rice",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "jollof rice"
+    },
+    {
+      "id": "suya",
+      "description": "Suya",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "grilled skewers"
+    },
+    {
+      "id": "efo-riro",
+      "description": "Efo Riro",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "vegetable stew"
+    },
+    {
+      "id": "pounded-yam",
+      "description": "Pounded Yam & Egusi",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "yam soup"
+    },
+    {
+      "id": "moi-moi",
+      "description": "Moi Moi",
+      "imageUrl": "https://picsum.photos/seed/5/600/400",
+      "imageHint": "bean pudding"
+    },
+    {
+      "id": "banga-soup",
+      "description": "Banga Soup",
+      "imageUrl": "https://picsum.photos/seed/6/600/400",
+      "imageHint": "palm nut soup"
+    }
+  ]
+}
